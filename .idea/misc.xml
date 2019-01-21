@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="G:/蚂蚁课堂3期(下)/0041-(每特教育&amp;每特学院&amp;蚂蚁课堂)-3期-互联网高并发解决方案-基于Hystrix实现服务隔离与降级 (2)/备课代码/order/pom.xml" />
+        <option value="G:/蚂蚁课堂3期(下)/0041-(每特教育&amp;每特学院&amp;蚂蚁课堂)-3期-互联网高并发解决方案-基于Hystrix实现服务隔离与降级 (2)/备课代码/member/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
